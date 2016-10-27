@@ -2,7 +2,7 @@
 Simple tool to rename folders and files in the folder the same naming pattern
 
 
-#### This progam was built for a specific use, it was built to change folder names and all files inside the folders to the same naming pattern.
+#### This progam was built to change folder names and all files inside the folders to the same naming pattern.
 1. Download the repository and open the solution file.
 2. At this time the folders and files should be contained in a Data folder.
 3. Select the directory that contains the folders and files that you wish to rename.
